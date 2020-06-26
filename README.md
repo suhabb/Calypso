@@ -1,2 +1,2 @@
-# calypso
+# Calypso
 Multithreading | Java Concurrency
