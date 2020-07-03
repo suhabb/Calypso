@@ -1,2 +1,2 @@
 # Calypso
-Multithreading | Java Concurrency
+Java 12 | Multithreading | Java Concurrency
